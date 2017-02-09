@@ -8,7 +8,4 @@ title: Raymond Finzel
 ---
 #+END_EXPORT
 
-I'm trying to do something very silly, don't you see?
-* New Header
-** Okay now what
-*** Not sure I get it
+I'm about to do something very silly.
