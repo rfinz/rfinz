@@ -5,15 +5,21 @@
 
   <body class="lmroman pa4 dark-gray">
 
-    {% include header.html %}
-
-    <main class="page-content" aria-label="Content">
-      <div class="measure">
-        {{ content }}
+    <article class="cf">
+      <div class="fl w-100 w-40-l w-50-ns">
+	{% include header.html %}
       </div>
-    </main>
 
-    {% include footer.html %}
+      <div class="page-content fl w-100 w-60-l w-50-ns" aria-label="Content">
+          {{ content }}
+      </div>
+
+    </article>
+
+    <div>
+      {% include footer.html %}
+    </div>
+
 
   </body>
 
