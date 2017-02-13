@@ -8,4 +8,4 @@ title: demos
 ---
 #+END_EXPORT
 
-If it's a demo and I made it it lives here.
+I make some things that are better shown than told.
