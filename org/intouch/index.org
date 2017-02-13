@@ -8,5 +8,12 @@ title: intouch
 ---
 #+END_EXPORT
 
-[[https://twitter.com/rfinz][@rfinz]]
-[[https://github.com/rfinz][@rfinz]]
+Minneapolis, Minnesota
+
+Inquire for a resume.
+
+finze 006 (at) umn (dot) edu
+
+
+
+Otherwise: [[https://twitter.com/rfinz][@rfinz]] [[https://github.com/rfinz][@rfinz]]
