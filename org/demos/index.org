@@ -11,3 +11,5 @@ title: demos
 I make some things that are better shown than told.
 
 [[http:/demos/EnterOblivion][Enter Oblivion]] : Three.js
+
+[[http:/demos/jukeboxthepost][Jukebox the Post]] : p5 / TumblrApi / vanilla javascript
