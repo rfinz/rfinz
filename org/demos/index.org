@@ -8,8 +8,6 @@ title: demos
 ---
 #+END_EXPORT
 
-I make some things that are better shown than told.
-
 [[http://rfinz.me/demos/EnterOblivion][Enter Oblivion]] : Three.js
 
 [[http://rfinz.me/demos/jukeboxthepost][Jukebox the Post]] : p5 / TumblrApi / vanilla javascript
