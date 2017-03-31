@@ -11,3 +11,5 @@ title: demos
 [[http://rfinz.me/demos/EnterOblivion][Enter Oblivion]] : Three.js
 
 [[http://rfinz.me/demos/jukeboxthepost][Jukebox the Post]] : p5 / TumblrApi / vanilla javascript
+
+[[https:rfinz.me/demos/iconaquarium][Icon Aquarium]] : processing.js / vanilla javascript
