@@ -12,4 +12,4 @@ title: demos
 
 [[http://rfinz.me/demos/jukeboxthepost][Jukebox the Post]] : p5 / TumblrApi / vanilla javascript
 
-[[https:rfinz.me/demos/iconaquarium][Icon Aquarium]] : processing.js / vanilla javascript
+[[http://rfinz.me/demos/iconaquarium][Icon Aquarium]] : processing.js / vanilla javascript
