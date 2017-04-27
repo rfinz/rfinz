@@ -50,10 +50,10 @@ It's an up-hill ontological battle with everyday things, everyday
 qualia to the big-ticket items, the important things that everyone
 wants you to think about.
 
-"Wait a second," you say, nationalism is forms a backbone for
-socialism *and* fascism? No way. Those anarchists over there believe
-that violence can be justified for the right purposes? Doesn't that
-sound familiar?  Historically some of the most vocal proponents for
+"Wait a second," you say, nationalism forms a backbone for socialism
+*and* fascism? No way. Those anarchists over there believe that
+violence can be justified for the right purposes? Doesn't that sound
+familiar?  Historically some of the most vocal proponents for
 anarchism have eventually /become/ fascists? Isn't that weird?  Your
 anarchism isn't intersectional? Stateless palingenetic
 ultranationalism?? Jesus fucking Christ. Proponents of liberal
@@ -214,7 +214,9 @@ that may not embody universal truth, but are merely useful."
 
 #+BEGIN_QUOTE
 "If people do not believe that mathematics is simple,
-it is only because the do not realize how complicated life is." -- John von Neumann
+it is only because the do not realize how complicated life is."
+
+-- John von Neumann
 #+End_QUOTE
 
 That's an end-goal, then. A path forward. An understanding that in

@@ -69,7 +69,9 @@ in a gutter, and fully take in the impromptu art of the city.
 
 #+BEGIN_QUOTE
 "I tell you, we are here on Earth to fart around, and don't let anyone
-tell you different." -- Kurt Vonnegut
+tell you different."
+
+-- Kurt Vonnegut
 #+END_QUOTE
 
 The roads you travel are residential and filled with people. There's a
