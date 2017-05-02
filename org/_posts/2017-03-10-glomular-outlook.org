@@ -66,12 +66,13 @@ counts. Technically everywhere there are humans was colonized, so I
 guess I really mean colonized more than once. Maybe Antarctica doesn't
 count after all.
 
-Can we draw solid lines between beliefs? Have we been so
-conditioned to believe that some values are better than others?
-Like the Years of Lead, do we believe ourselves so different from
-those that oppose us? Are we willing to raise the rhetoric and
-fight back? Are we willing to whip ourselves into a fervor and
-froth at the mouth and spittle on our enemies until they back down?
+Do we trust ourselves to draw solid lines between beliefs? Have we
+been so conditioned to believe that we can discern, without doubt,
+what values are better than others?  Like the Years of Lead, do we
+believe ourselves so different from those that oppose us? Are we
+willing to raise the rhetoric and fight back? Are we willing to whip
+ourselves into a fervor and froth at the mouth and spittle on our
+enemies until they back down?
 
 Inspiring doubt in your beliefs is a key marketing tactic that's
 used to sell you software, cars, gadgets, and other "solutions" to
@@ -177,7 +178,7 @@ you fit a few more things? How about fewer? They'd fit more
 comfortably that way. Traveling without supplies really is too
 [[https://meaningness.com/nihilism][dangerous]].
 
-It's always up to you. You start with a form, a natural container for
+It's always up to you. You start with a [[post:/2017/04/19/chunks.html][form]], a natural container for
 your ideas that is the result of your genetics, upbringing, and
 acculturation. From there you aggregate beliefs as they feel good, and
 /make sense/. In art, this process of building out intuitively from
@@ -192,14 +193,16 @@ the image it projects is still not reality, but a more personal vision
 of truth.
 
 *** Skepticism
-Most people who embrace rationality are already somewhere along
-the way to developing personal, unique, syncretic beliefs. The
-process of updating your personal beliefs based on new information
-is narrative-shaking; understanding that there are more than two
-sides to every story can facilitate empathy and productive
-understanding with even the most dissimilar people. Irritability
-with others' confused approach to the world is also normal, if
-you're an asshole.
+To embrace rationality is to be somewhere along the way to developing
+personal, unique, syncretic beliefs. To be rational requires changing
+your assessments when new evidence is presented.
+
+This process of updating your personal beliefs based on new
+information is narrative-shaking; understanding that there are more
+than two sides to every story can facilitate empathy and productive
+understanding with even the most dissimilar people. Irritability with
+others' confused approach to the world is also normal, if you're an
+asshole.
 
 Things are complicated. Not only are other people wrong, you are
 wrong too.
@@ -227,11 +230,11 @@ work with many different models of reality fluidly, collecting the
 best bits of the best thought for ourselves, and sloughing them off as
 they are no longer useful.
 
-This begins to look a lot like David Chapman's [[https://meaningness.com/preview-eternalism-and-nihilism][Complete Stance]], which
-captures the limits of rationality, but admits its utility at the same
-time. (side note, "Meaningness" should be required reading for anyone
-that wants to exist on the internet. Just don't get any ideas and
-start blogging like me, I need a niche here)
+This begins to look a lot like a mathy version of David Chapman's
+[[https://meaningness.com/preview-eternalism-and-nihilism][Complete Stance]], which captures the limits of rationality, but admits
+its utility at the same time. (side note, "Meaningness" should be
+required reading for anyone that wants to exist on the internet. Just
+don't get any ideas and start blogging like me, I need a niche here)
 
 The Complete Stance, which is something like post-positivism for
 spirituality, is something that we all engage with. It is the
@@ -259,17 +262,22 @@ unbent.
 
 So often it is not ideas that are dangerous, it is the people that
 hold them, and the fervor by which they will throw themselves at
-opposing ideas in arenas other than the circle-jerk of academia. Maybe
-the best thing in general, then, is to reduce fervor. Dedicate passion
-to more interesting human pursuits than politics and religion.
+opposing ideas in arenas other than the circle-jerk of academia; the
+problem is not the ideas, the problem is the adherents, those
+hell-bent on thinking nothing other than what they've already
+thought. The paranoid, the faithful, the driven. Anti-social ambition
+cum wide scale misanthropy.
 
-It's hard, if not impossible, to get drawn up by Amathia if you've
-been consciously building up your beliefs with the best bits of every
-belief that you can find. If you are involved in skeptical ideological
-syncretion as an end-goal, you're safe.
+Maybe the best thing in general, then, is to reduce fervor. Dedicate
+passion to more interesting human pursuits than politics and religion.
 
-Your ideas can be complicit in gentle bad, but won't tolerate
-evil. You're too smart for evil. Maybe.
+It's hard, if not impossible, to get drawn up by Amathia if your
+beliefs are a conscious collection of the best bits of every system
+that you can find. If your skeptical ideological syncretion becomes an
+end-goal, you've padded yourself against the assault of assumption.
+
+Your ideas will be complicit in gentle bad, since no one is safe from
+that, but you won't tolerate evil. You're too smart for evil. Maybe.
 
 At least that's the idea. If you syncrete a little harder and get
 content with your new beliefs you may not catch yourself slipping into
