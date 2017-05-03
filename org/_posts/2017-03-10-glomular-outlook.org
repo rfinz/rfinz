@@ -178,7 +178,7 @@ you fit a few more things? How about fewer? They'd fit more
 comfortably that way. Traveling without supplies really is too
 [[https://meaningness.com/nihilism][dangerous]].
 
-It's always up to you. You start with a [[post:/2017/04/19/chunks.html][form]], a natural container for
+It's always up to you. You start with a [[post:2017-04-19-chunks.org][form]], a natural container for
 your ideas that is the result of your genetics, upbringing, and
 acculturation. From there you aggregate beliefs as they feel good, and
 /make sense/. In art, this process of building out intuitively from

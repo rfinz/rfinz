@@ -11,7 +11,7 @@ title: Well Done Human
 ** Well Done Human / Well Done, Human
 
    It's my birthday, and although I've made many a promise to myself
-   to keep the quality of my writing [[post:/2017/02/13/why-to-blog.html][high]] (obviously), and not rush
+   to keep the quality of my writing [[post:2017-02-13-why-to-blog.org][high]] (obviously), and not rush
    the process, I can't resist the opportunity to reflect a bit on
    human, and my own, personal development.
 
