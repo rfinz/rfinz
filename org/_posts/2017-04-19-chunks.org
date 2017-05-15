@@ -16,11 +16,11 @@ title: Chunks
    wrong, dark, light, progress, regress, etc) or /b)/ consciously
    deciding what categories things go in, with an awareness that the
    categories are fuzzy and the points don't matter and live from new
-   york it's saturday night. You can try, but you can't escape
-   ontology, and in this weird wide world containing the internet,
-   where we can be exposed to any ideas that we choose, and in the
-   privacy of our own homes make decisions about how we are going to
-   engage with those ideas, we need to hone our metacognitive
+   york it's saturday night. You can try, but you can't escape it, and
+   in this weird wide world containing the internet, where we can be
+   exposed to any ideas that we choose, and in the privacy of our own
+   homes make decisions about how we are going to engage with those
+   ideas, we need to hone our metacognitive
    skills. Meta-metacognitive? Idk. You get the
    concept. Concept. Concept. Say it three times and turn in a
    circle. Concepts are... what? Ideas? Beliefs? Grouping of those
@@ -29,8 +29,8 @@ title: Chunks
    Categories are tangent to what I want to talk about, concepts are
    adjacent to it: the bit I need is the psychological concept of the
    [[https://en.wikipedia.org/wiki/Chunking_(psychology)][chunk]]. Chunking, and the paper that first synthesized the concept,
-   "The Magical Number Seven, Plus or Minus Two: Some Limits on Our
-   Capacity for Processing Information," are such cultural staples
+   "/The Magical Number Seven, Plus or Minus Two: Some Limits on Our
+   Capacity for Processing Information/," are such cultural staples
    that any writing on the topic is bound to seem trite, but here we
    go. The important bit is this:
 
@@ -77,28 +77,44 @@ title: Chunks
 *** Ontology
     Ontology is concerned with reality and its categories. It's one
     big arm of metaphysics (that statement itself being an ontological
-    assessment), and it's /everywhere/. You just have to know where to
+    assessment), and it's everywhere. You just have to know where to
     look.
 
-    That, and the big O is the study of chunks. No one will tell you
-    this but me, but it's true. This is fundamental to what I say for
-    the entirety of this article, so of course it's true.
+    Reasoning about the nature of reality, about the fundamental
+    properties of a thing, about what markers are needed to fill the
+    requirements of an /identity/, questions of /self/ versus /other/
+    and /in-group/ versus /out-group/, these are actually (and often
+    unconsciously) works of ontology.
 
-    True is a category into which things are sorted.
+    What the nonsensical introduction was getting at, then, is that,
+    like it or not, we spend an inordinate amount of time doing
+    (committing?) /ontology/.
 
-    We cannot categorize without categories. It is categorical. We
-    cannot have categories without comparison. Comparison identifies
-    "like" things. When we say that one thing is like another thing,
-    we've made a metaphor. Q.E.D. Metaphor is the purview of
-    ontology. I hate myself and want to die.
+    Ontology, neurologically speaking, could just be the study of
+    chunks. I'm willing to bet enough on this to type words into a
+    computer, so I'd say I'm pretty sure. Since ontology is focused on
+    the boundaries of things, and chunks are the psychic set of
+    boundaries between concepts, objects, and more, chunks are a
+    superset of ontology.
+
+    Ontology is also in charge of the categories themselves. You
+    cannot determine what category an item belongs to without first
+    having a list of categories. Categories are established through
+    the process of comparison that identifies "like" things.
+
+    When we say that one thing is like another thing, we've made a
+    metaphor, and we're thinking analogically. Categorization /is/
+    metaphorization.
 
 *** Semantics
     I made a groaner the other night, realizing that semantics is
-    metaphor without analogy. Or maybe I should say that semantics is
-    metaphor without hyperbole -- the unit metaphor, straightforward
-    and useful. A chair is a construction of wood, cushion, or
-    otherwise, that facilitates sitting. A stool is like a chair, but
-    dumber. You prefer stools? Psychopath.
+    metaphor without hyperbole -- the unit metaphor is straightforward
+    and useful. Of course, if there are unit metaphors, then maybe
+    there are scalar metaphors, or metaphor transforms. Who knows?
+
+    A chair is a construction of wood, cushion, or otherwise, that
+    facilitates sitting. A stool is like a chair, but dumber. You
+    prefer stools? Psychopath.
 
     Her eyes were cerulean kiddie pools. Her eyes were bubbles of
     fluid for focusing light on a sensor. It's not pretty, but it gets
@@ -214,8 +230,8 @@ title: Chunks
     capture a particular chunk. It somewhat bothers me when I see
     "untranslatable words" or things of that ilk, because of course
     english is infinitely expressive, and what they mean is that there
-    is no one to one word translation. But, when brevity is desired or
-    you would like to instantly trigger the loading of a particular,
+    is no single word translation. But, when brevity is desired or you
+    would like to instantly trigger the loading of a particular,
     /huge/ chunk, using a foreign word is infinitely more
     efficient. At this point foreign words become jargon for our
     everyday experience.  /Fremdschämen/ from German, /Saudade/ from
