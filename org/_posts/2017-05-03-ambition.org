@@ -9,9 +9,9 @@ title: Ambition
 #+END_EXPORT
 
 ** Ambition
-Ambition is a sticky subject. I think I used to have it. Now I'm not
-sure I do. I don't know if I have the stomach for ambition. I'd rather
-keep working in records, thanks.
+Ambition is sticky. At one point I had it, but now I'm not so sure I
+do. I don't know if I have the stomach for ambition. I'd rather keep
+working in records, thanks.
 
 Ambition is a will to succeed? An "an ardent desire for rank, fame, or
 power" (from [[https://www.merriam-webster.com/dictionary/ambition][Merriam Webster]]). /Ambitious/ is how we describe politicians, actors,
