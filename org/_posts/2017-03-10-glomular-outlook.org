@@ -126,7 +126,7 @@ powerful law of averages at play that we can accept.
 Accept?? Blind acceptance of the norm is tyranny. Tyranny that
 /YOU/ are /IMPOSING/ on other people. What is wrong with you? We
 /need/ a path forward. We need to believe that our contributions to
-this world mean something and effect someone. We need to believe
+this world mean something and affect someone. We need to believe
 that we can force someone's hand, and that the entirety of
 non-domination requires it. Who has the power, if it can so easily
 be taken away?
@@ -216,8 +216,8 @@ ourselves to models with stochastic parameters or multiple regimes
 that may not embody universal truth, but are merely useful."
 
 #+BEGIN_QUOTE
-"If people do not believe that mathematics is simple,
-it is only because the do not realize how complicated life is."
+"If people do not believe that mathematics is simple, it is only
+because they do not realize how complicated life is."
 
 -- John von Neumann
 #+End_QUOTE
