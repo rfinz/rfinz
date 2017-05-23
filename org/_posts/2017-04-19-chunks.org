@@ -5,6 +5,7 @@
 ---
 layout: post
 title: Chunks
+categories: attempts
 ---
 #+END_EXPORT
 

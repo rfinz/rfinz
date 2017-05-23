@@ -5,6 +5,7 @@
 ---
 layout: post
 title: Glomular Outlook
+categories: attempts
 ---
 #+END_EXPORT
 

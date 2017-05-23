@@ -5,6 +5,7 @@
 ---
 layout: post
 title: Well Done Human
+categories: attempts
 ---
 #+END_EXPORT
 

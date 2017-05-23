@@ -5,6 +5,7 @@
 ---
 layout: post
 title: Why to blog
+categories: attempts
 ---
 #+END_EXPORT
 ** Why to blog
