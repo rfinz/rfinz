@@ -21,28 +21,30 @@ Divide to conquer.
 -- Deng Ming-Dao
 #+END_QUOTE
 
-When considering the post-rational, meta-rational, meta-modern,
-flip-floppy, heat-seeking, hippy dippy, can't-we-all-get-along
-discourse that (at least) my corner of the internet has been engaged
-in, you must run the gamut of considerations, weighing post-modern and
-modern alike; refusing to give in to the demands of systems that are
-too quick to declare truth, too fixed in their understanding, and too
-unwilling to engage in solutions. There is a general unease with the
-state of things-- the unwillingness to talk, the obstructionism, the
-/ad hominem/ nature of nearly all argument at the national level, the
-constant poisoning of the well, and the tendency of the internet to
-amplify these features as commentators sit miles away, safe behind
-their computer screens, with virtually no chance of consequences for
-behavior that would be absolutely abhorrent if executed in the
-IRL. Couple this with an intellectual milieu that is both combative
-and elitist, and it's clear that the global conversation leaves much
-to be desired. What's the problem?
+When parsing the sometimes erudite musings of the meta-rational
+internet, you must give the gamut of ideas cool consideration,
+weighing post-modern, modern, and medieval alike; refusing to give in
+to the demands of systems that are too quick to declare truth, too
+fixed in their understanding, and, from these initial shortcomings,
+too unwilling to engage in solutions. From the flexibility in its own
+ideology stems a general unease with the state of things-- the
+unwillingness to talk, the obstructionism, the /ad hominem/ nature of
+nearly all argument at the national level, the constant poisoning of
+the well, and the tendency of the internet to amplify these features
+as commentators sit miles away, safe behind their computer screens,
+with virtually no chance of consequences for behavior that would be
+absolutely abhorrent if executed in the IRL. Couple this with an
+intellectual milieu that is both combative and elitist, and it's clear
+that the global conversation leaves much to be desired. What's the
+problem?
 
-In recent months, the internet's brightest thinkers have been circling
-the drain, attempting to converge on a common enemy: /critique's/
-election to its current status as knowledge's best excavator --
-privileged among tools to unearth true meaning, shatter the facade of
-previous knowledges, and expose artifice.
+In recent months, it appears to me that the internet's brightest
+thinkers have been circling the drain, attempting to converge on a
+common enemy. It also seems to me that they've come to an informal
+conclusion: the enemy in academia is /critique's/ election to its
+current status as knowledge's best excavator -- privileged among tools
+to unearth true meaning, shatter the facade of previous knowledges,
+and expose artifice.
 
 From Heather MacDonald in the Spring 2017 issue of [[https://www.city-journal.org/html/true-purpose-university-15134.html][City Journal,]] to
 Fuck Thought's [[https://www.artforum.com/slant/id=65193][Syllabus for the End of Times]], to the endless critique
