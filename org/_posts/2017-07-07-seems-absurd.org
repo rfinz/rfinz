@@ -38,13 +38,22 @@ With that in mind it seems likely that:
 - Some new technologies are bad
 - We have no way of reliably knowing which is which
 
-Groups of people can act as a baffle between the world and this
-uncertainty. Ways of thinking and knowing that are disparate can find
-a synergistic average that makes the most of doubt and knows more than
-any individual human.
+Groups of people can(sometimes) act as a baffle between the world and
+this uncertainty. Ways of thinking and knowing that are disparate can
+find a synergistic average that makes the most of doubt and knows more
+than any individual human.
 
 That is, /if/ you manage to find a competent leader(or set of rules?
 or algorithm?) that can synthesize that collective thought into
 action.
+
+Of course, groups can know less than particular individuals as well. A
+group like this would have broken metrics, perverse incentives, or
+heavy shared information bias. Of course our tools for evaluating
+these things are also broken.
+
+It is unwise to maximize for any process except that which allows for
+the greatest plurality of well-intentioned individuals to commune and
+refine their positions.
 
 # This looks a lot like what Hayek says is the function of "pricing"
