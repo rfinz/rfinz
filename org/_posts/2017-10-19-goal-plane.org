@@ -1,0 +1,496 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Goal Plane
+categories: attempts
+---
+#+END_EXPORT
+
+* Goal Plane
+
+** I.
+
+Where do I fall on the spectrums that define mental illnesses? What
+traits of my own are exaggerated and pronounced compared to the
+population average? At least some /everyday/ behaviors are subdued,
+scaled back versions of behaviors that the mentally ill exhibit. It's
+also indicated that more mental illnesses are spectrum disorders than
+previously thought. Maybe many mental illnesses can be understood by
+studying and reasoning about trait behaviors that are present in much
+larger portions of the population. Depression, borderline personality,
+clinical anxiety, paranoia -- you name it, it's too easy to armchair
+theorize about where common personalities embody the traits of their
+less-common peers. I think about at least one of my own traits in this
+way: hoarding.
+
+For a while now I've considered myself to be somewhere out along the
+hoarder spectrum. I don't think I'm up for a clinical diagnosis (but
+somehow something like *5%* of people are?  ?!), but I bump into the
+emotional aspects of hoarding on a near daily basis. I understand the
+deep regret that you can feel when throwing something away that /may
+just be/ useful in the future, no matter how unlikely that possibility
+is. I understand the feeling that objects have intrinsic value, and
+that it does them disservice to cast them aside. I even understand
+that seeing receipts or valueless mementos can trigger a deep
+catharsis or vivid reliving of the moment associated with that
+object. I understand that discarding trash(?) robs you of that
+opportunity.
+
+This general understanding of my world as *inherently* emotional and
+*inherently* useful influences other ways that I deal with reality (as
+such things are wont to do). I have a hard time leaving places or
+homes. I have a hard time re-arranging furniture. I get very sad when
+my belongings first begin to show signs of aging and I do whatever I
+can to prevent that (curiously I haven't had any trouble with my own
+aging process, yet, but I'm young). I struggle with making changes to
+my physical appearance. I hate the weeks of discomfort in my own skin
+caused by getting a haircut and I hate the way fashion changes around
+me, leaving me with clothes I would rather not discard but an
+appearance that is outdated and dingy.
+
+The changing physical world makes me say a lengthy goodbye to the way
+that things once were, goodbye to those configurations of the universe
+that are never to be experienced again, and goodbye to my gradually
+earned sense of comfort and routine.
+
+Experiencing the world as thousands of tiny goodbyes, a bath of
+/petite mort/, can be exhausting.  I understand why hoarders just
+choose to avoid that sensation as much as possible. Still, it's
+because of this exhaustion that I feel that emotion is just as present
+in the fabric of reality as space or time, and perceive that in many
+ways it is just as inseparable from its fibers. It's on rare occasion
+that the emotion seems to precipitate out of reality and coalesce into
+something tangible, something I can really sink my teeth into, touch,
+and feel. On these occasions emotion's qualities can be more
+thoroughly studied, and its hidden potential more thoroughly
+speculated upon.
+
+** II.
+
+Emotion is a complex field of study on its own. Like most of our
+biological features, emotions are presumed to have had some
+evolutionary purpose. Many have labored to discover what their role
+might have been. One of (I think) the more pleasing and coherent
+theories to come from this effort posits that emotions function as a
+direct interface to our /goals/. As with all evo-psych theories, this
+should be taken with a grain of salt -- its verifiability is near zero
+-- but it is very beautiful in many ways, and we are able to draw
+implications out from this theory that are interesting and useful.
+
+The theory goes like this: our survival as a species is dependent on
+our completion of any number of tasks for the sake of our personal
+wellbeing, our societal wellbeing, and ultimately the wellbeing of our
+offspring. The biological imperative springs eternal. Anything that's
+needed for the completion of these tasks-- our order of operations,
+our priorities, and our understanding of what is necessary (in other
+words, our /strategies/) are all chunkable with this conception of a
+/goal/. These goals are the basic requirements for our biological
+success, and any tools that we can evolve to more effectively reward
+the completion of these tasks, to these goals (and thus increase their
+chance of completion), will be selected for by evolutionary processes.
+
+Emotions, then, are those tools. They help us calibrate both reality
+and our goals so that they are better aligned. In this so-called
+"adaptive theory of emotion" happiness can be understood as a signal
+that a goal has been achieved, sadness is a failed or otherwise
+irreparably lost goal, anger is a response to a temporary state of
+failure (a failed attempt), frustration is a signal that something is
+blocking progress towards a goal (perhaps unexpectedly), anxiety is
+vigilance for outside threats to your goals, boredom is a sign that
+your goals are stale, etc. The fact that some emotions are rewarding
+and others are punishing does not diminish the information-like
+quality of raw emotions.
+
+Some of these emotions are strong indicators that there is work to be
+done on the outside world: anger and frustration indicate that we
+should direct our (sometimes negative) energy at a target or problem
+for the sake of a goal. On the other hand, some emotions are strong
+indicators that we should work on our inner world: boredom and sadness
+(ennui perhaps a subtle mix of the two) let us know when it is time to
+change course and identify new priorities, goals, and tasking.
+
+We can see these signals /in situ/ with the five stages of grief. We
+will initially deny the information from our emotions, hoping that it
+may just be noise in the signal, a misreading. After you are convinced
+of the information, anger and bargaining are two halves of the same
+coin -- alerting you that reality could better fit your goals, that
+you could overcome the source of grief, that you can strike out
+against whatever it is that's in your way. Depression is sadness, a
+signal to move on when the object of your goal is irreparably
+lost. Acceptance, finally, is the indication that, having exhausted
+your options, you can resume with your other goals. I don't mean to
+dismiss loss as "just" the loss of goals. In fact, if the adaptive
+theory of emotion is true, I find it quite beautiful that one of our
+most instinctual, basic goals as human beings is to find and love one
+another, and to care for and protect each other. It's intensely poetic
+that in order to adequately signal to our brains that all is lost and
+that we can move on, our body has to cripple us with sadness for days,
+weeks, months, or years.
+
+** III.
+
+Since I feel like reality has *inherent* emotion and *inherent*
+usefulness, and since I feel like /emotion/ and /use/ are both proxies
+for something else, maybe what is present in the fabric of reality is,
+in fact, /goal/. When thought about this way it's almost tactile, like
+a scale model or a button printed with Braille. It manifests like a
+layer of reality, a dimension outside of the three that we're used to
+thinking about.
+
+It gets weird here. Our emotions function like /sensors/ in this
+dimension. This is an inversion of our usual thinking. Our conscious
+mind processes information about goal, courtesy of our emotions,
+alongside information from our physical senses. Ultimately it's the
+synthesis of all of these sources of information that guides our
+action. If you've ever written a "Pros and Cons" list, you probably
+recognize that the number of pros and cons have little to do with the
+decision you make. It's mostly a way of systematically allowing
+yourself to observe more emotional information about the different
+consequences of a choice (a "choice" having very little representation
+in the physical dimensions, but significant presence within goal
+itself). Cognitive behavioral therapy, classical Stoicism, and
+Buddhism all treat emotion in this way (although they won't say so in
+as many words). They understand emotion as something to be observed,
+understood, and acted upon-- just like our physical reality. If goals
+resemble physical reality then their topology, as we sense it, is
+reflected in the emotions they activate, like how frequencies of light
+are reflected in the rods and cones they activate as they strike the
+retina.
+
+/Goal/ is naturally incredibly personal. Goal contributes its own set
+of forces to individual realities, the same way that gravity effects
+our shared one. Goals exert their forces on us, and with the help of
+our emotions we follow: like a rock resting in a local minimum as it
+rolls down a hill, or an asteroid captured as it wanders lazily into a
+planet's gravitational pull. Anger and obsession encourage you to
+spiral in, borne by your own momentum. You can work to change course,
+but it requires conscious effort. You can overcome sadness or endure
+boredom, and work to change goals. Even then the attachments of your
+previous goals (relationships?  routines?  precious moments?)  prevent
+you from totally settling at the bottom of a new goal-well until the
+force of time overcomes the old force of goal.
+
+The way that I've mourned as I've departed the old homes of my
+childhood, refused to erase whiteboards containing sentimental notes,
+or kept tickets from events that happened months ago only serves to
+illustrate this. Other people rushing to throw away the ephemera of
+old relationships is another potent example. What is it about an
+object or place that warrants its destruction or preservation?  What
+about their conception in your mind conveys value, both positive and
+negative?  Perhaps especially when the object itself is innocent(?) of
+any crime against you, and absent(?) of any particular favor?
+
+Everyone has their own indescribable attachments. While not exactly
+obvious, these are our personal directives, our biological incentives,
+and more. These /individual/ goals (and realities) are relatively
+easy. Where a significant portion of interest and conflict occurs is
+where realities overlap: when we find ourselves occupying the same
+time and space as others, but with disparate sentiments and intentions
+attached to our surroundings, our physical bodies, the physical bodies
+of others, and our mental direction.
+
+We can attempt to communicate these differences and provide a
+dialectical, communal, revision of goal. Language is our primary tool
+for this sharing and realigning process. There are also cruder
+emotional tools like violence or physical isolation, and more
+impressionistic tactics like weeping openly, scowling, laughing,
+etc. These are usually(?) only a last resort for humans. The ability
+to coordinate without open displays of emotion or shows of strength is
+part of what separates us from animals.
+
+If we have our own goals, and we occasionally try to influence the
+goals of others with language and other tools, it seems to follow that
+even though every little critter has its own little goal-plane (goal
+dimension?) that it comfortably wanders about, sensing lazily, their
+plane is hopelessly entangled with the goal-planes of everything
+else. Our family, our tribes, and our cities all behave the way that
+they do because of our goals, now entangled with the goals of our
+neighbors, loved ones, friends, and acquaintances. This is the social
+fabric, our cultural existence, the reality that all human constructs
+must be deconstructed into. For ease, and for clarity going forward, I
+will now call this entangled super-set of all goal-planes /Zeitgeist/.
+
+** IV.
+
+/Zeitgeist/ can probably(?) be modeled as a literal, genuine,
+bonafide, physical property of reality. It's the actual code of the
+simulation. It's god's plan for us all. Whatever. It doesn't matter
+what it is. It's there as an emergent property, or as an inbuilt
+characteristic. When thinking things cohabitate reality, their goals
+exist in superposition, an indeterminate fuzz of values and meanings,
+like static from the heavens. Our personal goal-planes, our own
+directives and the emotions that they evoke, are just the part of
+zeitgeist that we are personally tuned to receive.
+
+With "rods and cones" and other features of eyes, animals (and some
+humans) have evolved to see various portions of the electro-magnetic
+spectrum. In the case of zeitgeist, /every individual person/ is
+specifically adapted to perceive a different cross-section of it, and
+this cross section just barely overlaps with the cross-sections of
+other people. No one has the same emotional response to zeitgeist as
+you, because no one can perceive the same part of the emotional
+landscape. While for most things we can agree that there's /something/
+there, we usually can't agree on its salient features, and
+occasionally there are forms within zeitgeist that totally elude
+us. These differences in emotional interface are where meaning
+lives. Meanings are derivative of the goals present in reality. Value
+is derivative of these meanings. Asking "which goals are we sensing?"
+and "how intensely?", and "with what emotion?" helps us locate our
+individual values and our individual meanings.
+
+Of course, where there is meaning there is
+synchronicity. Synchronicity is a natural formation of goal atop an
+otherwise uninteresting physical reality. The feedback between our
+physical perceptual organs and our perceptual organs that operate in
+the much spookier plane of goals and meanings generates our luck,
+chance, and happenstance.
+
+Things begin to make more sense when you think of it this way. Do
+other people perceive the same green as you? Probably not. Do other
+people perceive the same aspect of zeitgeist as you?  Probably
+not. Do things mean the same thing to you as they do to other
+people? Um, no. Given this, will you perceive the same events as
+lucky or coincidental? Unlikely.
+
+There are many things like this that seem to exist entirely within
+zeitgeist. The psychic groupings of egregores and temporary autonomous
+zones, for example, must exist where the physical world is a mere
+afterthought-- like with synchronicity and luck.
+
+I think immediately of Art, which seems to be a manifestation of pure
+zeitgeist. It is meaningless without an artist's (or scene's) goals,
+and the goals' juxtaposition with time and space. An artist's hands
+massage zeitgeist into an appealing form. The physical medium is
+incidental, or functions as a focus for this form. Our good taste, our
+ability to possess discernment about things with an artistic element,
+is about effectively locating ourself and any object of culture (or
+artwork) within zeitgeist. Locating something with GPS-like precision
+is the mark of a tasteful individual. Celebrity, then, is the result
+of twofold: one's actual position in (now 5) dimensional space, and
+the preponderance of goal present in oneself. If you're not in the
+right place, time, and locus within zeitgeist, you're not a celebrity.
+
+All of these sound like aspects of the "humanities." Within them,
+sociology is most explicitly the study of zeitgeist, since the
+emotions and goals that form the organizing principles of groups of
+humans only exist within this entangled goal-dimension. Surveys, then,
+are a finite sociological tool designed to measure the continuous
+surface of zeitgeist. Related fields, like ethnomethodology, political
+philosophy, and others purport to explore zeitgeist in other ways,
+with other tools, and by making different assumptions.
+
+Our emotion, as I've explained, allows us to perceive our own
+goals. Reflective empathy, theory of mind, and their more effortful
+cognitive cousins are the perceptual organs that allow us to perceive
+the zeitgeist around us. They even allow us to conceive of what
+zeitgeist looks like from another angle, which is necessary for taste
+or celebrity. Prior sensory knowledge of the shape of an object allows
+us to simulate how that object must look from another perspective, and
+knowledge of what an object /means/ to someone else helps us simulate
+the view of another facet of zeitgeist. As with drawing from memory
+these simulations are crude, but at least they're available.
+
+** V.
+
+Like touch, sight, hearing, or chronoception, our perception of
+zeitgeist is finite and subject to our human limitations. Our
+understanding of our own motivations and of the motivations of others
+has to be mediated by time, distance, and perceptual ability.
+
+Our perception of zeitgeist is imperfect. Emotional acuity varies from
+person to person. Sometimes our perception is limited locally by mood
+swings, or through the spectrum disorders mentioned earlier. Our over
+or underestimation of something's importance is best likened to a
+sensor malfunction or mis-calibration, but, like with eyes that are
+blurry or with ears that are dull, there are ways to augment our
+emotional acuity. We can put on eye-glasses or use tools to do our
+sensing in the physical world. When it comes to our emotional
+faculties, these augmentations are cognitive improvements (thought
+technologies) for improving our emotional interpretation or better
+mental representations of the goals and emotions of others. Emotional
+intelligence can compensate for a deficit in the sensors. We can build
+perceptual lenses that correct for our inadequacies.
+
+In recent history we have begun to understand the process of
+correcting our emotional acuity through the administration of
+pharmaceuticals (though just as often as not there are trade-offs to
+be made regarding pharmaceuticals). Even common drugs like
+acetaminophen influence the way we perceive emotion. Acetaminophen
+dampens our own perception of pain, and (presumably through related
+mechanisms) dampens our perception of others' pain as well. It has
+even been suggested that acetaminophen can pull us out of an
+existential crisis-- as though existential pain is a pain to be
+"killed," as well.
+
+As far as distance or breadth is concerned, zeitgeist is very
+large. It's as long as the universe is wide. Wherever there's life,
+goal follows. This means that zeitgeist contains exactly as many
+goal-planes as there are thinking creatures in this whole
+universe. Each goal-plane only thickens zeitgeist. It's dense,
+complex, enormous, and we can only perceive so much of it.
+
+Just like being physically isolated from the existence of other human
+beings, or existing in another time from other human beings, we can be
+isolated by existing in another aspect of zeitgeist. There have
+already been 100 billion human beings, and you can only know what, a
+few thousand? If your goal-plane is not closely entangled with another
+person's, you will not have the occasion to interact with them. This
+is especially apparent in the internet age, where physical isolations
+are less important to our overall connectedness, and the opportunities
+created by shared or similar goal flare in consequence. Of course the
+"occasion to interact" is not the end of the influence of
+zeitgeist. Goal can steer those far away, who you have no
+knowledge of, into action that affects you and your own goal. This is
+perhaps the case with the CEOs of coal companies, or the actors in the
+global political theater, or even average consumers steering the
+pricing and materials of consumer goods.
+
+While the internet has the potential to entangle goals across great
+distances, "filter bubbles" are a disentangling (isolating action) of
+otherwise complex interactions in zeitgeist. They are powerful
+positive feedback loops within goal itself. They are loci where the
+topology of zeitgeist reaches upwards towards infinity. Filter bubbles
+are machine augmented, but they have existed since the dawn of
+civilization. We pick our friends and acquaintances in accordance with
+our goals, and in the process we disentangle ourselves from the goals
+of people that we perceive as different from ourselves. The good news
+is that zeitgeist, while perhaps less malleable than space, is
+definitely more malleable than time-- and there are definite discrete
+actions that we can take to influence our own goal-plane and the
+greater zeitgeist. We need this. The state of the world at any point
+in the future is essentially the current reality + physics + goals +
+time, since any change that the universe experiences that is
+indescribable through simple physics can be described as the
+interactions of the goals of the intelligent beings that inhabit it.
+
+** VI.
+
+Given this conception of zeitgeist as
+
+1. Present in reality
+2. Exerting influence on us and therefore
+3. "Sense-able", like space and time
+4. Malleable, like space and (to a lesser extent) time and,
+5. Vast, like space and time
+
+we can start to conceptualize its shape, its isomorphisms in other
+thought, and its consequences in the real world.
+
+Zeitgeist sounds like a theory of capital. It does work that way!
+Systems that purport to identify the source of value /must/ be of some
+use economically. Unfortunately what I've written can change
+nothing. Without accurate measurement across the spectrum of
+zeitgeist, I wouldn't get too excited, and I /do/ think that sociology
+and statistics possess some of the best tools within the limits of
+current imagination. Perhaps AI will furnish us with better tools in
+the future.
+
+Zeitgeist also smacks of panpsychism. Zeitgeist is in and
+around us all, coursing through the rocks and the trees, imbuing
+meaning and guiding actions. Could it be /inner essence/? Could it be
+the goal, the will, the /consciousness/ of every person, every
+/thing/? Could it describe the relational processes that create
+reality? I think it is distinct from these things, but helpful to our
+thinking in much the same way. It's a sort of teleology, a
+biological(?) explanation for purpose and meaning, and an
+understanding of how we perceive those purposes.
+
+So what does this all really get us? Like I said before, what
+zeitgeist describes is the “supra-individual” realm, the social
+fabric, cultural fabric, emotional landscape, and the interactions
+spinning out therefrom. It provides a term of art for the occasions on
+which we must roughly quantify the effects of our actions. It does so
+without straining the brain too hard. Once you have a psychic space
+that behaves like a physical one, analogies flow more readily. I've
+already mentioned "wells," as though I'm speaking about gravity.
+
+In time there are moments, in space there are points, in zeitgeist
+there are loci. A humane coordinate system, and the rhizome runneth
+through it. A tree is planted at this locus or that. The emptiness of
+outer space may be an equally empty outer zeitgeist.
+
+We can pilot our little space-ship brain between goal-wells, taking
+care not to get drawn in. We can apply our energy to moving towards
+particular goals or to moving away. Either will be hard (as we
+perceive frustration or sadness), and both will achieve very different
+things. Most objects/spaces/times will have very little goal
+associated with them, but the occasional preponderance in a person,
+place, event, or thing more than makes up for it. Do you ever think
+about a thing that just seems "big"? Have you ever inspected the
+thing's "bigness" only to find that its actual reach is limited and
+human? Has that ever happened but the thing still felt "big"?  We can
+chip away at zeitgeist and attempt to change its pull, but we are
+small and sometimes the pull is too strong.
+
+So, just like the physical world, we change it as it changes us. It
+can be accumulated or shaped. Gemstones can be extracted and elevated
+in importance. This is the purview of historians and taste-makers, who
+find substance in zeitgeist and inflate its importance. Here we find
+ourselves in a strange loop: in order to change zeitgeist
+intentionally, we must expand zeitgeist to contain itself and any
+intention you have towards it from this moment onward.
+
+One of the strange-loopiest things of all is politics. Politics is a
+very un-self-aware attempt at organizing around and changing
+zeitgeist. Of course, doing politics is impossible without trying to
+assimilate the continuous surface that contains opinion, policy,
+strategy, and emotion simultaneously. Political extremism is a
+slippery slope into a new part of zeitgeist. The forces are eccentric
+(isolated) and strong (the well is deep and steep). Those sucked in by
+it are difficult to save, and find themselves impotently raging for an
+ideology that isn't worth the time or energy.
+
+** VII.
+
+Better understanding human minds depends on creating better
+understanding of human faculties. Physical perceptions are only part
+of the picture, and perceiving zeitgeist is in many ways more
+beneficial than perceiving the physical world. Systems that perceive
+utility (value) outcompete those that perceive reality. The blind,
+deaf, and numb are all impossibly more capable at dealing with a
+general reality than the best trained neural-net classifiers. Your
+goal receptors are your most valuable sense. Professionals almost
+always "trust their gut" above all else -- which seems an almost
+hideously obvious allusion to the use of your emotions as perception.
+
+I'm not the first person to see this. The adaptive theory of emotion,
+which has been around for almost 40 years, has set this line of
+thinking in motion for a variety of crackpots (and some reputable
+individuals) like me. I hope that the status of such speculations can
+move from "wild flight of fancy" to "viable thought technology."
+Thinking of value and meaning in this way, and using a new toolbox of
+physical metaphors when discussing policy, people, and socio-cultural
+institutions could be helpful. Discussions of personal value, and our
+conversations about the breakdowns and sticking points in
+relationships with family and friends can benefit.
+
+It's not a catch-all. It's a useful fiction. There is no way to
+measure zeitgeist directly. There is no way to verify your hypotheses,
+unless your hypothesis is about population level statistical
+averages. And then, because of the nature of averages, and since the
+tools at your disposal are generally survey instruments from the
+fraught fields of sociology and psychology, you are unlikely to
+capture the continuous reality that underlies the results. Identifying
+a few points and creating a map from lines drawn through them does
+nothing to explore the territory.
+
+It's an interesting inversion, a mental slight of hand. The value (I
+hope) is in new analogies, enabled.
+
+
+** Some Very Loose References
+
+[[http://www.mdpi.com/2076-328X/3/3/459/htm][On the Function of Boredom]]
+
+[[http://www.cogsci.uci.edu/~ddhoff/interface.pdf][Interface theory of human perception]]
+
+[[https://www.psychologicalscience.org/news/releases/experiencing-existential-dread-tylenol-may-do-the-trick.html][Acetaminophen for existential crisis]] / [[https://academic.oup.com/scan/article/11/9/1345/2224135/From-painkiller-to-empathy-killer-acetaminophen?searchresult=1][Empathy reduction]]
+
+[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4125199/][Extreme Traits as Personality Disorders]]
+
+[[https://www.youtube.com/watch?v=6Uy5-mOGgC8][Video introduction to Panpsychism]]
+
+/A very special thanks to everyone who provided feedback on earlier drafts, especially Mitchell Finzel, Benjamin Cole, and Jane Rennick, who puked the first time she heard this idea (unrelated)./
