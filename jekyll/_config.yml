@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: rfinz
-email: your-email@domain.com
+email: rfinz.me@rfinz.me
 description: Expositions and impositions thanks only to Raymond Finzel
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rfinz.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rfinz
 github_username:  rfinz
 
