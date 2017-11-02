@@ -8,8 +8,6 @@ title: technomancy
 ---
 #+END_EXPORT
 
-Watch this space.
-
 #+BEGIN_EXPORT html
 <ul class="posts">
   {% for post in site.posts %}
