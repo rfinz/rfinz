@@ -88,8 +88,8 @@ needed for the completion of these tasks-- our order of operations,
 our priorities, and our understanding of what is necessary (in other
 words, our /strategies/) are all chunkable with this conception of a
 /goal/. These goals are the basic requirements for our biological
-success, and any tools that we can evolve to more effectively reward
-the completion of these tasks, to these goals (and thus increase their
+success. Any tools that we can evolve to more effectively reward the
+completion of the tasks that lead to them (and thus increase their
 chance of completion), will be selected for by evolutionary processes.
 
 Emotions, then, are those tools. They help us calibrate both reality
@@ -457,7 +457,8 @@ always "trust their gut" above all else -- which seems an almost
 hideously obvious allusion to the use of your emotions as perception.
 
 I'm not the first person to see this. The adaptive theory of emotion,
-which has been around for almost 40 years, has set this line of
+, the current version of which has been around for almost 40 years,
+and which can trace its thinking back to Darwin, has set this line of
 thinking in motion for a variety of crackpots (and some reputable
 individuals) like me. I hope that the status of such speculations can
 move from "wild flight of fancy" to "viable thought technology."
