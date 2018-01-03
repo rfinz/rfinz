@@ -94,7 +94,7 @@ aren't many contingencies to plan for at this stage.
 
 Reading, however...
 
-** Part 3 - See, the thing is
+** Part 3 - See, the thing is (Read)
 
 Okay, so writing can be gradual, but reading has to create valid
 links-- which means that I either have to fully load the =Cell= on the
@@ -117,3 +117,7 @@ thing, and implement the logic to actually run something zzstructured
 (and xanalogical?).
 
 For now, all of these memories exist in their own [[https://github.com/rfinz/slumberland/blob/master/memories/src/lib.rs][module.]]
+
+** Part 4 - So what does this get us?
+
+Very little. Another step done.
