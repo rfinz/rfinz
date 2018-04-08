@@ -9,6 +9,8 @@ categories: attempts technomancy
 ---
 #+END_EXPORT
 
+* Memories from a Different Computer Universe
+
 This isn't related to the rest of my (and [[http://hyperland.com/][Ted's]]) different computer
 universe /per se/, but thinking about new, dynamic media has partially
 enabled me to think about not only the way that /we/ think, but also
