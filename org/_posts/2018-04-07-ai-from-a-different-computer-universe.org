@@ -13,12 +13,12 @@ categories: attempts technomancy
 
 This isn't related to the rest of my (and [[http://hyperland.com/][Ted's]]) different computer
 universe /per se/, but thinking about new, dynamic media has partially
-enabled me to think about not only the way that /we/ think, but also
-the ways that artificial intelligences could be /designed/ to think as
-well. It is clear to me, and many others, that general AI does not
+enabled me to worry about not only the way that /we/ [[https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/][may think]], but
+also the ways that artificial intelligences may be /designed/ to think
+as well. It is clear to me, and many others, that general AI does not
 arise from simple linear algebra (which neural networks essentially
 are). Currently we buttress linear algebra with the heuristic systems
-of yore to generalize AI to narrow, but still complex tasks like
+of yore to generalize AI to narrow, but still "complex" tasks like
 navigating streets or sidewalks. What could be the form of a future
 approach? The following diagram (cc:[[https://twitter.com/The_Lagrangian/status/736980521641725953][The Lagrangian]]) is a quick attempt
 to synthesize a few things I've thought across multiple domains into a
@@ -539,35 +539,41 @@ mind resides. I don't put stock in AQAL except as a sloppy road-map,
 and since I'm not a very meticulous cartographer it will work here as
 well. /Inside/ is everything truly inside someone (I've tried to
 capture which systems are closest to the surface, though), and
-/Outside/ is everything else.
+/Outside/ is everything else. The /Inside/ is within the /Outside/,
+(of course?).
 
 Overlaps are both overlaps in the sub-systems and a shorthand for
-"feeds back into", a sort of recursion or feedback loop. Goals
-influence emotions and plans, and plans effect action and new goals,
-etc.
+"feeds back into", a recursion or feedback loop. Goals influence
+emotions and plans, plans effect action and new goals, senses sense
+the actions and their interactions with the goals, etc.
 
 I've also included some jargon from my previous post [[post:2017-10-19-goal-plane.org]["Goal Plane"]],
 which explains a little bit about the adaptive theory of emotion and
 the consequences that spin out from it. Mainly, goal (and emotion)
 provides a clue as to how humans turn information into
 action. /Zeitgeist/ refers to the collective miasma of everyone else's
-goals. /Emotions/ are feedback from goals that resemble senses.
+goals. /Emotions/ are the feedback mechanism of goals, and
+informationally resemble senses.
 
 "Patterned" and "patterns" are inspired by David Chapman's work at
 [[https://meaningness.com][Meaningness]], which describes the world as both nebulous and
 patterned - helpful ways to think of the chaos of the world, but also
 our ability to move through it. It should be noted that David Chapman
-is has been an AI researcher and has [[https://meaningness.com/metablog/ken-wilber-boomeritis-artificial-intelligence][thought about similar things]].
+has been an AI researcher and has [[https://meaningness.com/metablog/ken-wilber-boomeritis-artificial-intelligence][thought about similar things]].
 
 Finally, some of the areas already have workable implementations:
 1. *Senses* - modern sensors are incredibly high resolution, often
-   exceeding human capacity. (caveat: emotions)
+   exceeding human capacity. (caveat: emotions, which are a definite
+   unsolved problem)
 2. *Interpretation* - this is where I believe almost all AI research is
    currently focused. Classifiers work at the object-level and
    heuristics bind them together with a human "what does this mean".
 3. *Action* - physical systems are getting better all the time, with
    great examples from Boston Dynamics, Intuitive Surgery (the da
-   Vinci System) and other robotics laboratories across the country.
+   Vinci System) and other robotics laboratories across the
+   country. That's not even to say that physical interactions are the
+   only type of action. Action in the digital space has gotten faster
+   and better as well.
 4. *Substrate of memory and patterns* - I think [[post:2017-11-02-adventures-in-a-different-computer-universe.org][zzStructure]] is an
    interesting candidate here, though I'm sure other memory systems
    are just fine. I like zzStructure's dimensionality and
