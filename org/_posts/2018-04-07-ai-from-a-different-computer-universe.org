@@ -561,6 +561,23 @@ patterned - helpful ways to think of the chaos of the world, but also
 our ability to move through it. It should be noted that David Chapman
 has been an AI researcher and has [[https://meaningness.com/metablog/ken-wilber-boomeritis-artificial-intelligence][thought about similar things]].
 
+There are some qualifications and caveats I would make to the diagram.
+1. I think *Senses* must be information rich.
+2. I think *Goals* /must/ be mediated by an explicit emotional
+   interface, not accessed directly.
+3. *Interpretation* is the realm of isomorphism and heurism - where
+   classifiers, abstractions and rule systems interact.
+4. Any *Substrate* must have representational tools that can
+   accurately capture complexity and provide a reasonable way to
+   transform data into knowledge.
+5. I think systems "overlapping" involves their confusion - a sort of
+   synesthesia internal to the mind. Emotions feel like a sense, a
+   goal, and part of the cognitive process, for example.
+6. Absent from the diagram is *Attention*, which I believe is an
+   important sense-making instrument that coheres the layers and
+   determines what layers are operating and what inputs and outputs
+   are "important".
+
 Finally, some of the areas already have workable implementations:
 1. *Senses* - modern sensors are incredibly high resolution, often
    exceeding human capacity. (caveat: emotions, which are a definite
@@ -579,12 +596,13 @@ Finally, some of the areas already have workable implementations:
    are just fine. I like zzStructure's dimensionality and
    linearizability.
 
-I think setting *Goals*, crafting *Emotions*, enabling *Planning*, and
-providing a great self-editor in the sky with *Reflective Cognition*
-are where we are, and where we will continue to be stalled. Nobody
-knows what a general robot goal looks like, since no one can
-accurately assess what their own goals are. Nobody has any idea how to
-make silicon /feel/. Except by coarsely applying their own plans as
-heuristics, no one knows how to turn information into meaning and then
-into meaningful action. And no one, /no one/ knows what it looks like
-when the machines start self-reflecting towards their own ends.
+I think setting *Goals*, crafting *Emotions*, enabling *Planning*,
+tuning *Attention*, and providing a great self-editor in the sky with
+*Reflective Cognition* are where we are, and where we will continue to
+be stalled. Nobody knows what a general robot goal looks like, since
+no one can accurately assess what their own goals are. Nobody has any
+idea how to make silicon /feel/. Except by coarsely applying their own
+plans as heuristics, no one knows how to turn information into meaning
+and then into meaningful action. And no one, /no one/ knows what it
+looks like when the machines start self-reflecting towards their own
+ends.
