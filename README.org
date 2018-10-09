@@ -22,11 +22,11 @@ Some javascript demos that I've coded over the years are included as git submodu
 
 *** Plugins
 
-In order to accomplish the github backlinks I scripted a tiny [[https://github.com/rfinz/rfinz/blob/master/jekyll/_plugins/jekyll-blob-aware.rb][plugin]] that runs a git command and injects it into a jekyll variable.
+In order to accomplish the github backlinks I scripted a tiny [[https://github.com/rfinz/rfinz/blob/master/jekyll/_plugins/jekyll-blob-aware.rb][plugin]] that runs a git command and injects the result into a jekyll variable.
 
 *** Theme
 
-The theming is accomplished with the files that are in =jekyll/_includes=, =jekyll/_layouts=, and =jekyll/_sass=. The general structure of these were cribbed from the wonderful [[https://github.com/jekyll/minima][minima]].
+The theming is accomplished with the files that are in =jekyll/_includes=, =jekyll/_layouts=, and =jekyll/_sass=. The general structure of these were cribbed from the wonderful [[https://github.com/jekyll/minima][minima]]. Minima had too much stuff for my liking, so I removed most of it.
 
 I used a few top-level [[http://tachyons.io/][tachyons]] concepts to accomplish column widths and font sizes.
 
