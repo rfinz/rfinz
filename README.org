@@ -1,5 +1,5 @@
 * rfinz.me
-( the website )
+[[https://rfinz.me/][( the website )]]
 
 ** Content
 
@@ -7,7 +7,7 @@ How content becomes website.
 
 *** Writing
 
-Original documents are in =org/_posts= and get rendered into =jekyll/_posts=. The code for doing that is in my [[https://github.com/rfinz/dotfiles/blob/9b3aba86a499f4fe6ffeebb5e57a7e9e2540cffb/.emacs#L174-L207][.emacs]]. There' also a bit of code there for rendering the inter-post links that might be of interest.
+Original documents are in =org/_posts= and get rendered into =jekyll/_posts=. The code for doing that is in my [[https://github.com/rfinz/dotfiles/blob/9b3aba86a499f4fe6ffeebb5e57a7e9e2540cffb/.emacs#L174-L207][.emacs]]. There's also a bit of code there for rendering the inter-post links that might be of interest.
 
 Jekyll headers and any template code are enclosed in =#+BEGIN_EXPORT html= org tags so that they are rendered exactly in the resulting files. An example is [[https://github.com/rfinz/rfinz/blob/794990d9b15a96eee1ebc706115b209b1043476c/org/attempts/index.org#L1-L22][here]].
 
