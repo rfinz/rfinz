@@ -8,7 +8,7 @@ title: Movement in the Goal Plane
 categories: attempts
 ---
 #+END_EXPORT
-** Movement in the Goal Plane
+* Movement in the Goal Plane
 
 /This document is slightly more under construction than the other ones right now, just so you know./
 
