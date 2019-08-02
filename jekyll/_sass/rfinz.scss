@@ -1,2 +1,14 @@
 .lmroman { font-family: lmroman, serif; }
+.twitter-tweet {
+    @extend .pa4;
+    @extend .br4;
+    @extend .b--solid;
+    @extend .b--light-blue;
+}
+.twitter-tweet > p {
+    @extend .avenir;
+    @extend .bb;
+    @extend .b--silver;
+    @extend .pb4;
+}
 @import "rfinz/lmroman.scss", "../node_modules/tachyons-sass/tachyons.scss";
