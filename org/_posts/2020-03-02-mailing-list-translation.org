@@ -11,8 +11,6 @@ categories: misc
 
 * Translation
 
-/Taken from a mailing list message dating 2018-04-19./
-
 One of the things I’ve wondered aloud about on this list is “translation” between various operating levels - upward and downward the ladder of complexity, between different systems of thought that are working at different levels of abstraction, from ideas into praxis, etc. These sort of translations often seem to be implicit and unconscious, partially solved by emergent organizational structures. These structures then become the models for a codification and systematization of scope and responsibilities.
 
 Part of what I find so exciting about metamodern thought is that it tends to explicitly recognize this process. Metamodernists, especially of the developmental ilk, of which there are many on this list, identify and name the many thought frameworks, developmental axes, power structures, and social worlds that need to be translated between. Identifying levels and recognizing the need for translation are the first and second steps, and I’m very curious about the next ones. Given the current niche status of metamodern orgs, it seems prudent to develop translations with broad appeal. I don’t know what that looks like, but here are some other places where levels have been identified and there is active translational work:
@@ -28,3 +26,4 @@ So I dunno. That’s what I have. Thoughts? Is it self-evident that this process
 
 If this is worthwhile I may try to write up more.
 
+/Taken from a mailing list message dating 2018-04-19./
