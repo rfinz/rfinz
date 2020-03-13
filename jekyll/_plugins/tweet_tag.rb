@@ -11,7 +11,7 @@ module Jekyll
 
     def get_html(id)
         url = "https://api.twitter.com/1/statuses/oembed.json?id=#{id}"
-        JSON.parse(open(url).read, { :symbolize_names => true })[:html]
+        JSON.parse(URI.open(url).read, { :symbolize_names => true })[:html]
     end
     
     def render(context)
