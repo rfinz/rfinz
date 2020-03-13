@@ -8,8 +8,8 @@ title: demos
 ---
 #+END_EXPORT
 
-[[http://rfinz.me/demos/EnterOblivion][Enter Oblivion]] : Three.js
+[[file:EnterOblivion][Enter Oblivion (2013)]] : Three.js
 
-[[http://rfinz.me/demos/jukeboxthepost][Jukebox the Post]] : p5 / TumblrApi / vanilla javascript
+[[file:jukeboxthepost][Jukebox the Post (2015)]] : p5 / TumblrApi / vanilla javascript
 
-[[http://rfinz.me/demos/iconaquarium][Icon Aquarium]] : processing.js / vanilla javascript
+[[file:iconaquarium][Icon Aquarium (2012)]] : processing.js / vanilla javascript
