@@ -32,3 +32,15 @@ exclude:
   - Gemfile.lock
   - node_modules
   - package.json
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+      image_directory: "assets/images"
+      thumbnail_directory: "assets/thumbnails"
+  - scope:
+      path: "assets/images/doodles"
+    values:
+      gallery: "doodles"
