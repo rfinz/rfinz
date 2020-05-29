@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_EXPORT html
 ---
-layout: wide
+layout: post
 title: Mess Made Real
 categories: attempts
 ---
